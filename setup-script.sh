@@ -17,12 +17,15 @@ brew install zsh
 brew install --cask alt-tab
 brew install --cask signal
 brew install --cask spectacle
+brew install brave-browser
 brew install docker
 brew install go2shell
+brew install google-chrome
 brew install postman
 brew install pycharm
 brew install tunnelblick
 brew install visual-studio-code
+
 
 # app store installs 
 
