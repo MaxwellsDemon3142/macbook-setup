@@ -1,2 +1,3 @@
 # macbook-setup
-scripts for setting up a new macbook
+Scripts for setting up a new macbook.
+
