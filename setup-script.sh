@@ -35,6 +35,7 @@ sudo xcodebuild -license accept
 
 ## others
 mas install 937984704 # amphetamine
+mas install 972028355 # micro snitch
 
 # zsh setup
 
